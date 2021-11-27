@@ -1,3 +1,7 @@
-# online-book-store-project-in-php
+# Book Bank
 
-more details and demo http://projectworlds.in/online-book-store-project-in-php/
+##Clone Project 
+git pull https://github.com/Khushboo2803/Book-Bank.git
+
+##Prerequisites
+Xampp installed
