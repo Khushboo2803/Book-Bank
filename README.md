@@ -1,7 +1,7 @@
 # Book Bank
 
-##Clone Project 
-###git pull https://github.com/Khushboo2803/Book-Bank.git
+## Clone Project 
+### git pull https://github.com/Khushboo2803/Book-Bank.git
 
-##Prerequisites
-###Xampp installed
+## Prerequisites
+### Xampp installed
